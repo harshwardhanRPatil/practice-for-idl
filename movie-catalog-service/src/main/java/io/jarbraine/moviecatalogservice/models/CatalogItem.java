@@ -1,6 +1,7 @@
 package io.jarbraine.moviecatalogservice.models;
 //we
 //add
+//change test
 public class CatalogItem {
     private String name;
     private String  desc;
