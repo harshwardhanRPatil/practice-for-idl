@@ -6,6 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.reactive.function.client.WebClient;
 //we do
+
 @SpringBootApplication
 public class MovieCatalogServiceApplication {
 	@Bean
