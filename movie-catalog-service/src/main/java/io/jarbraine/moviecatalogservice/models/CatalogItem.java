@@ -3,7 +3,7 @@ package io.jarbraine.moviecatalogservice.models;
 //we
 //let see
 //we
-//i aslo add data
+//i aslo add data main
 public class CatalogItem {
     private String name;
     private String  desc;
