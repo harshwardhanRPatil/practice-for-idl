@@ -2,6 +2,7 @@ package io.jarbraine.moviecatalogservice.models;
 //we add data
 //we
 //let see
+//we
 public class CatalogItem {
     private String name;
     private String  desc;
