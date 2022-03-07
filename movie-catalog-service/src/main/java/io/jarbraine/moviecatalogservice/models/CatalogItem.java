@@ -3,7 +3,9 @@ package io.jarbraine.moviecatalogservice.models;
 //we
 //let see
 //we
-//i change sone data
+//i aslo add main
+//i apply change test1
+//and also new data add main
 public class CatalogItem {
     private String name;
     private String  desc;
