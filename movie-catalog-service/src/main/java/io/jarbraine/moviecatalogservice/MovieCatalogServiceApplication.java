@@ -1,6 +1,7 @@
 package io.jarbraine.moviecatalogservice;
 //just add gor checking 
-//to create more error 
+//to create more error
+//try diff thing
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
